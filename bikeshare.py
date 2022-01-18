@@ -79,7 +79,7 @@ def load_data(city, month, day):
     print("\n Loading Data…")
     #So basically I am extracting the time (month, day) and filtering though it to get the Int Numbers for the later Output
     df = pd.read_csv(CITY_DATA[city])
-    
+    #Sorting all Data in efficent Time Frames
     df['Start Time'] = pd.to_datetime(df['Start Time'])
        
     df['month'] = df ['Start Time'].dt.month
