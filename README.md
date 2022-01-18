@@ -13,5 +13,5 @@ This project analyses the data given by udacity. It takes user input and gives m
 All of my Python Code + the Databases for my Program
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Me, Myself and I :)
 
