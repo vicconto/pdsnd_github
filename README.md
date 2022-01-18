@@ -10,7 +10,7 @@ My Udacity Python Project
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+All of my Python Code + the Databases for my Program
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
